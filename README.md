@@ -14,7 +14,7 @@ Hello! I'm **Nikhil Shivasankar**, a passionate data enthusiast based in Leeds, 
    - Strong analytical thinker with a focus on clear and actionable insights.  
 
 - 🛠️ **Professional Experience**:  
-   - Conducted extensive analysis on healthcare datasets during my MSc dissertation, which involved cleaning, preprocessing, and visualizing complex data.  
+   - Conducted extensive analysis on heart failure prediction during my MSc dissertation, which involved cleaning, preprocessing, and visualizing complex data.  
    - Transformed manual data into digital formats in a business setting, improving efficiency and accuracy.  
    - Delivered insights and visualizations to technical and non-technical audiences, enhancing understanding and driving meaningful discussions.  
 
