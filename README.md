@@ -32,7 +32,7 @@ This GitHub repository showcases my journey in data science and analytics. Here,
 ## Let’s Connect  
 Feel free to explore my repositories and reach out for collaborations or discussions about data, analytics, or exciting new opportunities!  
 
-📧 **Email**: [nikhil.shivadsankar@gmail.com](mailto:nikhil.shivadsankar@gmail.com)  
+📧 **Email**: [nikhil.shivadsankar@gmail.com](mailto:nikhil.shivasankar@gmail.com)  
 
 <!---
 Nikhil-Shivasankar/Nikhil-Shivasankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
